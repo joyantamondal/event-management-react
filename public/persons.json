@@ -1,0 +1,101 @@
+[
+    {
+      "id": 1,
+      "name": "Bernard Arnault",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/de/Bernard_Arnault_%283%29_-_2017_%28cropped%29.jpg",
+      "owner": "LVMH ",
+      "rank": 1,
+      "asset": "$198.4 billion",
+      "country": "France",
+      "age": 72,
+      "budget": 500
+    },
+    {
+      "id": 2,
+      "name": "Jeff Bezos",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_%2839074799225%29_%28cropped%29.jpg/220px-Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_%2839074799225%29_%28cropped%29.jpg",
+      "owner": "Amazon",
+      "rank": 2,
+      "asset": "$193.8 billion",
+      "country": "American",
+      "age": 57,
+      "budget": 450
+    },
+    {
+      "id": 3,
+      "name": "Elon Musk",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Elon_Musk_Royal_Society_%28crop1%29.jpg",
+      "owner": "SpaceX",
+      "rank": 3,
+      "asset": "$184.7 billion",
+      "country": "London",
+      "age": 50,
+      "budget": 400
+    },
+    {
+      "id": 4,
+      "name": "Bill Gates",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bill_Gates_2017_%28cropped%29.jpg",
+      "owner": "Microsoft",
+      "rank": 4,
+      "asset": "$131.6 billion",
+      "country": "American",
+      "age": 65,
+      "budget": 350
+    },
+    {
+      "id": 5,
+      "name": "Mark Zuckerberg",
+      "img": "https://ichef.bbci.co.uk/news/976/cpsprodpb/125B3/production/_107178157_178151.jpg",
+      "owner": "Facebook",
+      "rank": 5,
+      "asset": "$129.2 billion",
+      "country": "American",
+      "age": 37,
+      "budget": 300
+    },
+    {
+      "id": 6,
+      "name": "Larry Ellison",
+      "img": "https://cdn.vox-cdn.com/thumbor/8rtO_JfeXE3WNh7PJKZdLJFeEnM=/0x0:5184x3456/920x613/filters:focal(2178x1314:3006x2142):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/68511619/1183284106.0.jpg",
+      "owner": "Oracle",
+      "rank": 6,
+      "asset": "$117.1 billion",
+      "country": "American",
+      "age": 77,
+      "budget": 250
+    },
+    {
+      "id": 7,
+      "name": "Larry Page",
+      "img": "https://payspacemagazine.com/wp-content/uploads/2019/03/larrypage1.jpg",
+      "owner": "Google",
+      "rank": 7,
+      "asset": "$115.7 billion",
+      "country": "American",
+      "age": 48,
+      "budget": 200
+    },
+    {
+      "id": 8,
+      "name": "Sergey Brin",
+      "img": "https://cdn.vox-cdn.com/thumbor/tiQc_UN7qbQw-9kRLGUigX3BxEM=/0x0:4981x3535/920x613/filters:focal(2093x1370:2889x2166):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/59557135/885129372.jpg.0.jpg",
+      "owner": "Alphabet",
+      "rank": 8,
+      "asset": "$112.0 billion",
+      "country": "American",
+      "age": 48,
+      "budget": 150
+    },
+    {
+      "id": 9,
+      "name": "Warren Buffet",
+      "img": "https://img-cdn.inc.com/image/upload/w_1920,h_1080,c_fill/images/panoramic/GettyImages-1163170868_471635_c850bx.jpg",
+      "owner": "Berkshire Hathaway",
+      "rank": 9,
+      "asset": "$101.3 billion",
+      "country": "American",
+      "age": 91,
+      "budget": 100
+    }
+  ]

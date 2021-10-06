@@ -1,0 +1,7 @@
+.guest{
+    display: grid;
+    grid-template-columns: repeat(1fr,2);
+}
+.card imgg{
+    width: 10% ;
+}

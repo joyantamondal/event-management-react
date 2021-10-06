@@ -1,0 +1,23 @@
+.person-container{
+display: grid;
+grid-template-columns: 3fr 1fr;
+}
+.persons{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    border-right: 1px solid gold;
+    margin-right: 5px;
+    margin-left: 20px;
+    
+}
+.cart-container{
+    width: 100%;
+    /* border: 1px solid goldenrod; */
+    text-align: center;
+
+}
+.cart{
+    color: black;
+    padding: 20px;
+    margin: 5px;
+}
